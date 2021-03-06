@@ -14,7 +14,7 @@ function ImageComponent() {
       />
       <style jsx>{`
         .profile-image {
-          box-shadow: 0 10px 10px 10px grey;
+          box-shadow: 0 10px 5px 5px grey;
         }
       `}</style>
     </>
